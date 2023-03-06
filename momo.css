@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #ECECEC;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+main{
+    display: flex;
+    background-color: #5862a1;
+    height: 1200px;
+    margin: 80px 100px ;
+}
+
+footer{
+    background-color: #31384A;
+    height: 500px;
+}
